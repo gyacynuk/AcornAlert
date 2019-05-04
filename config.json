@@ -1,0 +1,9 @@
+{
+  "acorn_url": "https://acorn.utoronto.ca",
+  "monitoring": [],
+  "poll_interval": 1800,
+  "mailgun": {
+    "domain": "",
+    "api_key": ""
+  }
+}
